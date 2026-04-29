@@ -1,0 +1,13 @@
+# --- FILE COMPILATI JAVA ---
+*.class
+
+# --- OUTPUT AND BUILD DITECTIORY ---
+/bin/
+
+# --- LOG FILES ---
+*.log
+
+# --- IDE CONFIG FILES ---
+# Questi sono file locali del tuo editor che non servono agli altri
+.vscode/
+
